@@ -1,1 +1,1 @@
-# sonak_Cypress_end_2end_test
+# sonak_Cypress_end2end_test
